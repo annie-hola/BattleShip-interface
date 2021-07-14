@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(77,16): warning C4013: '_getch' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(115,9): warning C4101: 'l': unreferenced local variable
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(376,33): warning C4101: 'end': unreferenced local variable
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(460,28): warning C4133: '=': incompatible types - from 'tm *' to 'dt *'
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(461,33): warning C4133: 'function': incompatible types - from 'dt *' to 'const tm *'
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(464,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(450,8): warning C4101: 's': unreferenced local variable
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(527,7): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\BattleShip_interface\BattleShip_interface\Source.c(341): warning C4715: 'checkWinner': not all control paths return a value
+  BattleShip_interface.vcxproj -> C:\Users\Administrator\source\repos\BattleShip_interface\Debug\BattleShip_interface.exe
